@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Saymals.github.io/rsschool-cv/cv
