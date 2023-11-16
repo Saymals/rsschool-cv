@@ -32,3 +32,18 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
+-----
+
+### Experience
+i don`t have any Experience
+
+-----
+
+### Education
+
+School: 11 classes
+
+-----
+
+### English
+A2 (I had been practicing English, when I worked in the USA as an exchange student)
