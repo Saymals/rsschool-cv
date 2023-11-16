@@ -22,3 +22,13 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * Git basic
 
 -----
+
+### Code Example
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
